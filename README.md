@@ -27,3 +27,8 @@ Dubai Land Department - Official Property Transaction Records
 ## Visualizations
 ![Dubai Rental Trends](rental_trends.png)
 ![Feature Importance](feature_importance.png)
+
+## Purpose of this project
+
+1) How have rental prices changed over the last 16 years and what events drove those changes?
+2) Given a property's size, location, type and number of rooms, what rental price should it command?
