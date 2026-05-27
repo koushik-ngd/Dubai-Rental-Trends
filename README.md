@@ -22,7 +22,7 @@ Analysis of 16 years of rental transaction data from the Dubai Land Department t
 - Jupyter Notebook
 
 ## Data Source
-Dubai Land Department — Official Property Transaction Records
+Dubai Land Department - Official Property Transaction Records
 
 ## Visualizations
 ![Dubai Rental Trends](rental_trends.png)
